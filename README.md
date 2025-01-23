@@ -3,3 +3,10 @@
 
 During my visit to the US, I noticed how nutrition labels differed from those in Europe. I particularly appreciated the clarity of the US labels, with their larger font size for calorie counts and overall transparency in design. 
 Inspired by this, I decided to practice my HTML and CSS skills by recreating a US-style nutrition label.
+
+
+<br>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/NutritionLabel/NutritionLabel.png" alt="Banner" width="300" />
+</div>
+
